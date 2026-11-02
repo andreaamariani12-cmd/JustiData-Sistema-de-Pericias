@@ -1,0 +1,8 @@
+{
+  "name": "JustiData - Sistema de Pericias",
+  "description": "Sistema de gestión y seguimiento de pericias judiciales y actuaciones técnicas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
